@@ -1,0 +1,18 @@
+id 15
+name MilkBoxv2
+category BoxUpdates
+description Updatev2
+x-size 13
+y-size 13.3
+z-size 19.2
+basic-shape 2
+graspable 0
+urdf bookshelf.urdf
+image IMG_0144.JPG
+grasp Milk_all_grasps.xml
+mesh Model_SRS_Milk.txt.iv
+typeMesh txt.iv
+pcl Model_SRS_Milk.txt.ply
+surf Model_SRS_Milk.txt
+end
+
