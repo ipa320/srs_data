@@ -1,0 +1,18 @@
+id 18
+name MilkBoxBlue
+category BoxUpdates
+description test,v2
+x-size 
+y-size 
+z-size 
+basic-shape 
+graspable 
+image 
+grasp 
+urdf
+mesh 
+typeMesh 
+pcl 
+surf 
+end
+

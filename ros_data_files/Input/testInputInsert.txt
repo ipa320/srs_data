@@ -1,0 +1,18 @@
+id
+name MilkBox
+category Box
+description Description,Test,MilkBox
+x-size 90.1
+y-size 0.1
+z-size 30.6
+basic-shape 2
+graspable 0
+urdf bookcase.urdf
+image IMG_0144.JPG
+grasp Milk_all_grasps.xml
+mesh Model_SRS_Milk.txt.iv
+typeMesh txt.iv
+pcl Model_SRS_Milk.txt.ply
+surf Model_SRS_Milk.txt
+end
+
