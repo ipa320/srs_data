@@ -1,0 +1,18 @@
+id 20
+name kitchen_top
+category Box
+description kitchen_top
+x-size 0.66
+y-size 1.8
+z-size 0.9
+basic-shape 2
+graspable 0
+urdf kitchen_top.urdf
+image 
+grasp 
+mesh kitchen_top.dae
+typeMesh dae
+pcl 
+surf 
+end
+
