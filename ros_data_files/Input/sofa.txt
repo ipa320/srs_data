@@ -1,0 +1,12 @@
+id 5
+name Sofa
+category Furniture
+description Test Sofa model IKEA 1234
+x-size 1.9
+y-size 1
+z-size 0.6
+basic-shape rectangle
+graspable 0
+image sofa.PNG
+end
+

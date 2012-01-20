@@ -1,0 +1,13 @@
+id 12
+name Bottle
+category Gaspables
+description Bottle of water
+x-size 0.14
+y-size 0.14
+z-size 0.2
+basic-shape ellipse
+graspable 1
+image table.PNG
+surf bottle_fpt.txt
+end
+
