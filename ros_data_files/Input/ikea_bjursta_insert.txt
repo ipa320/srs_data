@@ -1,0 +1,18 @@
+id 21
+name ikea_bjursta
+category Box
+description ikea_bjursta
+x-size 0.9
+y-size 0.9
+z-size 0.74
+basic-shape 2
+graspable 0
+urdf ikea_bjursta.urdf
+image 
+grasp 
+mesh ikea_bjursta.dae
+typeMesh dae
+pcl 
+surf 
+end
+

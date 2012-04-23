@@ -1,0 +1,14 @@
+<package>
+  <description brief="srs_data">
+
+     srs_data
+
+  </description>
+  <author>Georg Arbeiter</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/srs_object_verification</url>
+  
+</package>
+
+
